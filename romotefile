@@ -1,0 +1,3 @@
+git merge xxx   (合并指定分支xxx到当前分支)
+git merge –no-ff -m “commit content” xxx   (禁用Fast-forward 模式下，合并分支至当前分支下)
+git branch -d xxx   (删除指定分支xxx)
